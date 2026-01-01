@@ -1,0 +1,1 @@
+Weather app template using MCP (Python sdk)
